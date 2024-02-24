@@ -4,7 +4,7 @@ Partner:    None
 Course:     CS 3090, University of Utah, School of Computing
 GitHub ID:  maxcridgeway
 Repo:       https://github.com/maxcridgeway/MinecraftMod
-Commit Date: 2/21/24
+Commit Date: 2/23/24
 Project:    Block 2 Project
 Copyright:  CS 3090 and Max Ridgeway
 ```
